@@ -1,2 +1,2 @@
-# Certificates-and-Projects
-These are the Certificates and Projects 
+# Certificates
+These are the Certificates obtained for Business Analysis and Data Analysis by Microsoft and LinkedIn
